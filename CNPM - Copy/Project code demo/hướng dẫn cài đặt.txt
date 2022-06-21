@@ -1,0 +1,6 @@
+Copy file Project bỏ vào thư mục htdocs của XAMPP
+IMPORT database (đặt tên database là bansach2)
+database bên trong thư mục Project
+tk admin :
+admin
+admin123
